@@ -20,41 +20,42 @@
 
 ---
 
-## ◈ WHO AM I
+## ◈ ABOUT ME
 
-```typescript
-const chaimae: Developer = {
-  name:        "Chaimae El Khatib",
-  alias:       "@shemy_code",
-  pronouns:    "She / Her",
-  location:    "Morocco 🇲🇦",
-  role:        "Full-Stack Web Developer",
-  experience:  "Building scalable apps end-to-end",
+<table>
+<tr>
+<td valign="top" width="50%">
 
-  stack: {
-    frontend:  ["React", "HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
-    backend:   ["Node.js", "PHP", "Laravel", "REST APIs"],
-    databases: ["MySQL", "SQL Optimization"],
-    tools:     ["Git", "GitHub", "VS Code", "Figma", "Linux"],
-  },
+### Hi, I'm Chaimae 👋
 
-  currently: {
-    learning:  ["Advanced React Patterns", "Node.js", "Laravel", "SQL Optimization"],
-    building:  "Dynamic & responsive full-stack apps with seamless UX",
-    exploring: "Clean architecture, SOLID principles & design patterns",
-    openTo:    "Collaborations on innovative web projects 🤝",
-  },
+I'm a **Full-Stack Web Developer** based in Morocco 🇲🇦, passionate about crafting clean, performant web applications from concept to deployment.
 
-  principles: [
-    "Write code that humans can read, not just machines",
-    "Ship fast, iterate faster",
-    "Design with empathy, build with precision",
-  ],
+I work across the full stack — building interactive UIs with **React** and connecting them to solid backends powered by **Node.js** and **Laravel**. I care deeply about code quality, clean architecture, and user experience.
 
-  superpower:  "Turning complex problems into elegant solutions 🧩",
-  funFact:     "Coding challenges are my favorite kind of puzzle ⚡",
-};
-```
+- 🔭 &nbsp; Currently building responsive full-stack apps
+- 🌱 &nbsp; Deepening expertise in React, Node.js & Laravel
+- 🤝 &nbsp; Open to exciting collaborations
+- 💡 &nbsp; Philosophy: *write code humans can read*
+- ⚡ &nbsp; Fun fact: I can't stop until I solve the puzzle
+
+</td>
+<td valign="top" width="50%">
+
+<br/>
+
+| | |
+|---|---|
+| 👩‍💻 **Role** | Full-Stack Web Developer |
+| 📍 **Location** | Morocco 🇲🇦 |
+| 🎯 **Pronouns** | She / Her |
+| 🛠️ **Stack** | React · Node.js · Laravel · MySQL |
+| 🌐 **Alias** | @shemy_code |
+| 📬 **Contact** | chaimae15elel@gmail.com |
+| 🤝 **Status** | Open to collaborate |
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -79,14 +80,18 @@ const chaimae: Developer = {
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -125,17 +130,41 @@ const chaimae: Developer = {
 
 ---
 
-## ◈ WHAT I'M FOCUSED ON
+## ◈ CURRENTLY WORKING ON
 
-```
- 🔭  Building     →  Scalable full-stack apps with clean, maintainable architecture
- 🌱  Mastering    →  Advanced React · Node.js internals · Laravel · SQL optimization
- 🏗️  Practicing   →  SOLID principles · Design patterns · RESTful API best practices
- 🤝  Seeking      →  Collaborations with complex backend challenges + great UX vision
- 💡  Philosophy   →  Write code that humans can read, not just machines
- 🌍  Contributing →  Open-source projects & the developer community
- ⚡  Fun fact     →  Coding challenges are my favorite kind of puzzle 🧩
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" /><br/>
+<b>React</b><br/>
+<sub>Advanced Patterns</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" /><br/>
+<b>Node.js</b><br/>
+<sub>API Architecture</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" width="36" height="36" /><br/>
+<b>Laravel</b><br/>
+<sub>Backend Systems</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="36" height="36" /><br/>
+<b>MySQL</b><br/>
+<sub>SQL Optimization</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" /><br/>
+<b>Tailwind</b><br/>
+<sub>UI Systems</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -145,13 +174,13 @@ const chaimae: Developer = {
 
 <div align="center">
 
-|  | Principle | In Practice |
-|---|---|---|
-| 🏛️ | **Clean Architecture** | Separation of concerns, readable modules |
-| 🔁 | **Iterative Thinking** | Ship, get feedback, refine — repeat |
-| 🧪 | **Quality First** | Validate logic before building features |
-| 🤝 | **Collaboration** | Clear code, clear communication |
-| 📐 | **Design Systems** | Consistent, reusable UI components |
+| | Principle | In Practice |
+|:---:|---|---|
+| <img src="https://cdn.simpleicons.org/blueprint/a78bfa" width="18"/> | **Clean Architecture** | Separation of concerns, readable modules |
+| <img src="https://cdn.simpleicons.org/git/F05033" width="18"/> | **Iterative Thinking** | Ship, get feedback, refine — repeat |
+| <img src="https://cdn.simpleicons.org/checkmarx/a78bfa" width="18"/> | **Quality First** | Validate logic before building features |
+| <img src="https://cdn.simpleicons.org/github/cdd6f4" width="18"/> | **Collaboration** | Clear code, clear communication |
+| <img src="https://cdn.simpleicons.org/figma/F24E1E" width="18"/> | **Design Systems** | Consistent, reusable UI components |
 
 </div>
 
@@ -164,15 +193,15 @@ const chaimae: Developer = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/chaimae-el-khatib-07b074250">
-  <img src="https://img.shields.io/badge/LinkedIn-Chaimae%20El%20Khatib-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-Chaimae%20El%20Khatib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="mailto:chaimae15elel@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-chaimae15elel-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gmail-chaimae15elel-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="mailto:chaimaeelkhatib645@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-chaimaeelkhatib645-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gmail-chaimaeelkhatib645-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
@@ -182,10 +211,6 @@ const chaimae: Developer = {
 <div align="center">
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
-
-![snake gif](https://github.com/ChaimaeEkh/ChaimaeEkh/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
